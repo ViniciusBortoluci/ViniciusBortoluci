@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ## Bem-vindo(a) ao perfil Vinicius Bortoluci 😁
+Estudande de Ciência de dados e Frontend
+
+## Formações: 
+- Curso Starter de frontend no Dev Quest - HTML, CSS, Git/Github
+- Cursando Frontend em Dev Samurai - HTML, CSS, JavaScript e um pouco de Backend
+- Cursando Frontend + backend no Udemy, um curso onde tem v´srias linguagens como PHP, MySQL, Orientação a objetos, entre outros.
+
+
+
  <div>
    <a href="https://github.com/ViniciusBortoluci">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBortoluci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
