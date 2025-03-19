@@ -28,13 +28,14 @@ Começei um curso de Ciência de dados, que ainda curso, e também estudar front
 - Cursando Frontend + backend no Udemy, um curso onde tem v´srias linguagens como PHP, MySQL, Orientação a objetos, entre outros.
 
 
-## 🔗 Links
+## Estatística
  <div>
    <a href="https://github.com/ViniciusBortoluci">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBortoluci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBortoluci&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
+
+## Linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -42,7 +43,8 @@ Começei um curso de Ciência de dados, que ainda curso, e também estudar front
 </div>
  
 <br>
- 
+
+## 🔗 Links
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
