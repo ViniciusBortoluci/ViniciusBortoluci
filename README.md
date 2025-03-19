@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Bem-vindo(a) ao perfil Vinicius Bortoluci 😁
-Estudande de Ciência de dados e Frontend
+Estudante de Ciência de dados e Frontend
 
 ## 🚀 Sobre mim 
 Há varios anos tinha vontade de estudar programação, e de uns 2 anos pra cá resolvi me dedicar e estudar programação.
