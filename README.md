@@ -25,7 +25,7 @@ Começei um curso de Ciência de dados, que ainda curso, e também estudar front
 ## 🛠 Habilidades
 - Curso Starter de frontend no Dev Quest - HTML, CSS, Git/Github
 - Cursando Frontend em Dev Samurai - HTML, CSS, JavaScript e um pouco de Backend
-- Cursando Frontend + backend no Udemy, um curso onde tem v´srias linguagens como PHP, MySQL, Orientação a objetos, entre outros.
+- Cursando Frontend + backend no Udemy, um curso onde tem várias linguagens como PHP, MySQL, Orientação a objetos, entre outros.
 
 
 ## Estatística
