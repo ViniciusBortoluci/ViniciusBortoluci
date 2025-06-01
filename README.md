@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 Estudante de Ciência de dados e Frontend
 
 ## 🚀 Sobre mim 
-Há varios anos tinha vontade de estudar programação, e de uns 2 anos pra cá resolvi me dedicar e estudar programação.
-Começei um curso de Ciência de dados, que ainda curso, e também estudar frontend, que eu semrpe quis aprender a programar sites e tal.
+
+Estudantede Ciência de dados, mas sempre quis também aprender a criar sites, e assim, resolvi estudar frontend,
+já que sempre quis aprender a programar sites também.
 
 ## 🛠 Habilidades
 - Curso Starter de frontend no Dev Quest - HTML, CSS, Git/Github
