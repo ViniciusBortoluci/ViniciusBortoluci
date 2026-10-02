@@ -71,5 +71,5 @@ Desde então, venho aprimorando minhas habilidades em todo o ecossistema de dado
 
 ## 📫 Vamos conversar?
 
-* **LinkedIn:** https://www.linkedin.com/in/vinicius-bortoluci-40907a235/
+* **LinkedIn:** www.linkedin.com/in/viniciusbortoluci
 * **E-mail:** vinicius.a.bortoluci@gmail.com
